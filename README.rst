@@ -1,4 +1,5 @@
 elsa
+Version 2.0
 ====
 
 Elsa will help you build your `Frozen-Flask <http://pythonhosted.org/Frozen-Flask/>`_ based website and deploy it to GitHub pages.
